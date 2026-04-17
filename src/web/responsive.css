@@ -1,0 +1,40 @@
+<!-- Auto-generated: responsive — responsive v8151 -->
+<div class="responsive-—-responsive-8151">
+  <header class="card">
+    <h2>responsive — responsive</h2>
+    <nav class="nav-8151">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="grid">
+    <div class="header">
+      <p>Generated component for responsive — responsive</p>
+      <span class="badge badge-8151">v8151</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.responsive-—-responsive-8151 {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 11px;
+  padding: 12px;
+  background: #01794c;
+  border-radius: 14px;
+  border: 1px solid #a34f64;
+}
+.responsive-—-responsive-8151 .card {
+  color: #312a16;
+  font-size: 24px;
+  font-weight: 700;
+}
+.badge-8151 {
+  background: #a34f64;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 11px;
+  font-size: 10px;
+}
+</style>
